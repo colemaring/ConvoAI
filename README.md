@@ -1,13 +1,12 @@
 # ConvoAI
-![6b10184ced25c1e86f42b8301e64d2b7](https://github.com/colemaring/ConvoAI/assets/65455664/4212cee1-c0a1-4213-81ad-9e8c02ac1834)
-![c9a45f27da21be55738ae5e560cdd318](https://github.com/colemaring/ConvoAI/assets/65455664/ebc0d61a-b10c-4254-8cec-b4cea0b898bf) </br>
+![Screenshot_20230823_151237](https://github.com/colemaring/ConvoAI/assets/65455664/5074ee55-8c76-4f67-b3a1-4f5fec8fc027)
+![Screenshot_20230823_151436](https://github.com/colemaring/ConvoAI/assets/65455664/c9ccaa44-d0d5-4ee6-bcf6-c68e56872e88) </br>
+
+Check it out on the Google Play Store: </br>
+https://play.google.com/store/apps/details?id=com.ConvoAI.project </br>
 
 TODO: </br>
-prettify change location menu </br>
-placeholder text under starting blur </br>
 facebook shimmer loading </br>
-more variety in gpt reponse </br>
 consider animations </br>
 splash screen </br>
-onboarding menus </br>
 
