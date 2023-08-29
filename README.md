@@ -1,8 +1,8 @@
 # ConvoAI
 
+![Screenshot_20230823_152031](https://github.com/colemaring/ConvoAI/assets/65455664/6048d3ee-ea5d-423d-89fd-11d20c6b815c)
+![Screenshot_20230823_151436](https://github.com/colemaring/ConvoAI/assets/65455664/f96dd9c9-113b-49d1-a966-ac3eea4200dd)
 
-
-![Screenshot_20230823_151237](https://github.com/colemaring/ConvoAI/assets/65455664/5074ee55-8c76-4f67-b3a1-4f5fec8fc027) ![Screenshot_20230823_151436](https://github.com/colemaring/ConvoAI/assets/65455664/c9ccaa44-d0d5-4ee6-bcf6-c68e56872e88)
 
 Check it out on the Google Play Store: </br>
 https://play.google.com/store/apps/details?id=com.ConvoAI.project </br>
