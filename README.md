@@ -1,7 +1,8 @@
 # ConvoAI
 
-![Screenshot_20230823_151237 (1)](https://github.com/colemaring/ConvoAI/assets/65455664/a44627c5-200b-4081-b8ea-dfd7cd685a01)
-![Screenshot_20230823_151436 (1)](https://github.com/colemaring/ConvoAI/assets/65455664/42048160-d776-45cf-adb1-180861c0003e)
+![Screenshot_20230823_151237 (2)](https://github.com/colemaring/ConvoAI/assets/65455664/1249808d-dafb-41fb-8f78-22709ffd30d5)
+![Screenshot_20230823_151436 (2)](https://github.com/colemaring/ConvoAI/assets/65455664/7266463a-dd5b-4e3a-85f0-aa3f29d679a5)
+
 
 
 
