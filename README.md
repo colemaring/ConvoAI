@@ -4,8 +4,9 @@ Check it out on the Google Play Store: </br>
 https://play.google.com/store/apps/details?id=com.ConvoAI.project </br>
 
 Screenshots:  </br>
-![Screenshot_20230823_151237 (2)](https://github.com/colemaring/ConvoAI/assets/65455664/1249808d-dafb-41fb-8f78-22709ffd30d5)
-![Screenshot_20230823_151436 (2)](https://github.com/colemaring/ConvoAI/assets/65455664/7266463a-dd5b-4e3a-85f0-aa3f29d679a5)
+![Screenshot2copy](https://github.com/colemaring/ConvoAI/assets/65455664/cd5bf3bb-3e68-4049-a1b1-0d39fec362f2)
+![Screenshot3copy](https://github.com/colemaring/ConvoAI/assets/65455664/2e802485-5269-4bc0-8c10-72962a3a27e6)
+
 
 
 TODO: </br>
